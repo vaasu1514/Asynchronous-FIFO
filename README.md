@@ -44,6 +44,3 @@ The FIFO is verified using **two custom Verilog testbenches**:
 
 Waveforms are generated in `.vcd` format and inspected using **GTKWave**.
 
----
-
-## File Structure
